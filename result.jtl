@@ -1,0 +1,44 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1691405329734,6062,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,6050,0,2839
+1691405335846,188,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,188,0,0
+1691405336036,132,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,132,0,0
+1691405336169,2705,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,2705,0,0
+1691405338876,122,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,122,0,0
+1691405338999,158,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,158,0,0
+1691405339158,131,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,131,0,0
+1691405339290,142,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,142,0,0
+1691405339433,117,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,117,0,0
+1691405339552,168,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,168,0,0
+1691405339722,124,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,123,0,0
+1691405339847,2259,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,2259,0,0
+1691405342116,135,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,135,0,0
+1691405342252,160,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,160,0,0
+1691405342413,115,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,115,0,0
+1691405342530,161,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,161,0,0
+1691405342693,129,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,129,0,0
+1691405342824,167,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,167,0,0
+1691405342994,129,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,129,0,0
+1691405343126,153,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,153,0,0
+1691405343280,129,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,129,0,0
+1691405343410,150,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,150,0,0
+1691405343562,120,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,120,0,0
+1691405343683,152,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,152,0,0
+1691405343836,124,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,124,0,0
+1691405343962,167,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,167,0,0
+1691405344130,853,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,853,0,0
+1691405344985,167,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,167,0,0
+1691405345153,122,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,122,0,0
+1691405345276,164,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,164,0,0
+1691405345442,136,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,135,0,0
+1691405345579,153,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,153,0,0
+1691405345734,128,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,128,0,0
+1691405345864,173,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,173,0,0
+1691405346038,145,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,145,0,0
+1691405346184,148,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,148,0,0
+1691405346334,119,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,119,0,0
+1691405346454,530,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,530,0,0
+1691405346986,137,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,137,0,0
+1691405347125,148,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,148,0,0
+1691405347274,130,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,130,0,0
+1691405347405,162,Создание водителя,201,Created,Thread Group 1-1,text,true,,816,675,1,1,https://partner.agentapp.ru/v1/insured_objects/drivers,162,0,0
+1691405347570,3199,Авторизация,200,OK,Thread Group 1-1,text,true,,345,247,1,1,https://partner.agentapp.ru/v1/users/obtain-token,3199,0,0
